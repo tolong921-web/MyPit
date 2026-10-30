@@ -1,0 +1,26 @@
+{
+  "name": "MyPit — Nhật Ký Kỷ Niệm & Sổ Lưu Bút Cá Nhân",
+  "short_name": "MyPit",
+  "description": "Sổ lưu bút kỹ thuật số và nhật ký kỷ niệm cá nhân ấm áp, hoạt động ngoại tuyến.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF3E8",
+  "theme_color": "#FAF3E8",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
